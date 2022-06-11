@@ -1,0 +1,5 @@
+Our plan is to build interactive dashboards and machine learning web apps to help people learn more about the chance that they have a stroke and help them understand the causes of the stroke.
+
+As the users of the app is age between 40 and 60 years old, we need to make sure that the app is easy to use and easy to understand. Web apps with a simple interface and easy to understand content are a good way to help people learn about the disease.
+
+Our user can access the app from a mobile device or a desktop computer. By inputing some information, the user can see the results of stroke risk assessment. Beside that user can see overall risk of stroke and the risk of stroke in the specific area.
