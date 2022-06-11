@@ -1,8 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.write("Hello World!")
-st.write(pd.DataFrame({
-    'first column': [1, 2, 3, 4],
-    'second column': [10, 20, 30, 40]
-}))
+st.title('Diagon Alley')
+
+st.write('Diagon Alley is an end-to-end ML model project that uses a combination of machine learning techniques to predict stroke ✊')
+
